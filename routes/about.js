@@ -438,7 +438,8 @@ function generateHTML(){
     'zeffii',
     'zjhiphop',
     'zjonsson',
-    'zuzap'
+    'zuzap',
+    'senthilthyagarajan'
   ]
 
   return `
